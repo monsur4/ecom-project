@@ -1,0 +1,8 @@
+# the .env file
+.env
+
+# the bin folder and its contents
+bin
+
+# the .vscode folder and its contents
+.vscode
